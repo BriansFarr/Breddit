@@ -44,11 +44,10 @@ _**BREDDIT** is a clone of the popular website Reddit built with ruby on rails.
 
 |     Library      | Description                                |
 | :--------------: | :----------------------------------------- |
-|      React       | _Will be used to set up front end._        |
-|   React Router   | _Used to set routes to different pages_    |
+|      React       | _Will be used to display front end._       |
+|   React Router   | _Used to set routes to different paths_    |
 |   Gem devise     | _For user auth_.                           |
-|     Express      | _Lorem ipsum dolor sit amet, consectetur._ |
-|  Express Router  | _Lorem ipsum dolor sit amet, consectetur._ |
+|    Rails         | _Lorem ipsum dolor sit amet, consectetur._ |
 
 <br>
 
@@ -56,9 +55,8 @@ _**BREDDIT** is a clone of the popular website Reddit built with ruby on rails.
 
 #### Wireframes
 
-> Use the Wireframes section to display desktop, tablet and mobile views. No hand-drawn wireframes. Use a tool like wireframe.cc, Whimsical or AdobeXD
 
-![Dummy Link](url)
+![https://wireframe.cc/i9impc](url)
 
 - Desktop Landing
 
