@@ -60,25 +60,29 @@ _**BREDDIT** is a clone of the popular website Reddit built with ruby on rails.
 
 - Desktop Landing
 
-![Dummy Link](url)
+![https://wireframe.cc/wUQtAe](url)
 
-- Desktop Hero
+- Sign Up 1
 
-![Dummy Link](url)
+![https://wireframe.cc/t3xk9c](url)
 
-- Resource Index
+- User name Password
 
-![Dummy Link](url)
+![https://wireframe.cc/UAIn48](url)
 
-- Resource Show
-
-![Dummy Link](url)
-
-- Tablet Resource Index
+- Log in 
 
 ![Dummy Link](url)
 
-- Mobile Resource Index
+- Post Create
+
+![Dummy Link](url)
+
+- Post Edit/ Delete 
+
+![Dummy Link](url)
+
+- User Edit/ Delete
 
 #### Component Tree
 
